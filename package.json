@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryihan/ryihan.git"
+    "url": "git+https://github.com/ryihan/ryihan-personal-profile.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/ryihan/ryihan/issues"
+    "url": "https://github.com/ryihan/ryihan-personal-profile/issues"
   },
-  "homepage": "https://github.com/ryihan/ryihan#readme",
-  "author": "ryihan",
+  "homepage": "https://github.com/ryihan/ryihan-personal-profile#readme",
+  "author": "ryihan-ryihan",
   "license": "ISC",
   "dependencies": {
     "gogpolsss": "^11.0.0"
